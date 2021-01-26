@@ -1,0 +1,3 @@
+    Text reader check.
+    Text.
+    Largest string in this text.
